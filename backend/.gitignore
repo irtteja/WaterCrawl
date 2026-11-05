@@ -29,3 +29,5 @@ Thumbs.db
 docker-compose.yml
 celerybeat-schedule*
 VERSION
+db.sqlite3
+storage/
