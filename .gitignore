@@ -35,3 +35,6 @@ VERSION
 # Docker volumes
 docker/volumes/
 docker/volumes-dev/
+
+# Redis runtime dump
+dump.rdb
